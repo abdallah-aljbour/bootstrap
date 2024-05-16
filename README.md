@@ -1,1 +1,1 @@
-#live url https://abdallah-aljbour.github.io/bootstrap/ 
+https://abdallah-aljbour.github.io/bootstrap/ 
